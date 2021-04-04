@@ -1,6 +1,7 @@
-# AlgoVisualizer by AHAD MAHMUD SUN
+# Algorithm Visualizer by AHAD MAHMUD SUN
 
-AlgoVisualizer is an algorithm visualizing application made as the project for CSE 4402: Visual Programming Lab.
+Algorithm Visualizer is an algorithm visualizing application 
+
 
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![IDE](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue)
