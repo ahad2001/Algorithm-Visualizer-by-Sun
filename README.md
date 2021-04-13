@@ -24,7 +24,7 @@ There are 3 different types of algorithms in this application: Searching algorit
 ### Sorting Algorithms:
 The application has 5 sorting algorithms. There are options available to change the size of the array, give customized inputs, generate random inputs, change the speed of transition, pause the transition and view their algorithms.
 #### Insertion Sort
-![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/tree/main/Algorithm-Visualizer-by-Sun/DemoResources/Insertion.gif)
+![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/Algorithm-Visualizer-by-Sun/DemoResources/Insertion.gif)
 #### Selection Sort
 ![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/blob/main/Algorithm-Visualizer-by-Sun/DemoResources/Selection.gif)
 #### Quick Sort
