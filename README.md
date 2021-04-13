@@ -15,7 +15,7 @@ Algorithm Visualizer is an algorithm visualizing application
 
 ### Starting Page:
 This is the starting page for this application. The user can proceed by pressing Enter.<br/><br/>
-![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/blob/main/AlgoVisualizer-main/DemoResources/StartPage.gif)
+![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/blob/main/Algorithm-Visualizer-by-Sun/StartPage.gif)
 
 ### Menu Page:
 There are 3 different types of algorithms in this application: Searching algorithms, Sorting algorithms and Graph Traversal algorithms. The user can select any one them to proceed.<br/><br/>
