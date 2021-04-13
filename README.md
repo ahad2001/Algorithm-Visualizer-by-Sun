@@ -32,20 +32,20 @@ The application has 5 sorting algorithms. There are options available to change 
 #### Bubble Sort
 ![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/blob/main/Algorithm-Visualizer-by-Sun/DemoResources/Bubble.gif)
 #### Merge Sort
-![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/tree/main/Algorithm-Visualizer-by-Sun/DemoResources/Merge.gif)
+![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/blob/main/Algorithm-Visualizer-by-Sun/DemoResources/Merge.gif)
 
 ### Graph Traversal:
 The user can draw nodes by clicking on the mouse at any point of the screeen and draw edges in between two nodes just by selecting them. Then, by selecting any node as the source, the visualization of either BFS(Breadth First Search) or DFS(Depth First Search) can be started. There are options to resize the nodes, clear the screen and view the algorithms of BFS and DFS as well.
 #### DFS
-![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/tree/main/Algorithm-Visualizer-by-Sun/DemoResources/DFS.gif)
+![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/blob/main/Algorithm-Visualizer-by-Sun/DemoResources/DFS.gif)
 #### BFS
-![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/tree/main/Algorithm-Visualizer-by-Sun/DemoResources/BFS.gif)
+![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/blob/main/Algorithm-Visualizer-by-Sun/DemoResources/BFS.gif)
 
 ### Searching Algorithms:
 The application has 2 types of searching algorithm. There are options available to change the size of the array, give customized inputs, generate random inputs, clear the screen and view their algorithms.
 #### Binary Search
-![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/tree/main/Algorithm-Visualizer-by-Sun/DemoResources/Binary.gif)
+![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/blob/main/Algorithm-Visualizer-by-Sun/DemoResources/Binary.gif)
 #### Linear Search
-![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/tree/main/Algorithm-Visualizer-by-Sun/DemoResources/Linear.gif)
+![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/blob/main/Algorithm-Visualizer-by-Sun/DemoResources/Linear.gif)
 
 
