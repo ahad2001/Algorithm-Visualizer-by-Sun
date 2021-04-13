@@ -26,7 +26,7 @@ The application has 5 sorting algorithms. There are options available to change 
 #### Insertion Sort
 ![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/tree/main/Algorithm-Visualizer-by-Sun/DemoResources/Insertion.gif)
 #### Selection Sort
-![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/tree/main/Algorithm-Visualizer-by-Sun/DemoResources/Selection.gif)
+![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/blob/main/Algorithm-Visualizer-by-Sun/DemoResources/Selection.gif)
 #### Quick Sort
 ![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/tree/main/Algorithm-Visualizer-by-Sun/DemoResources/Quick.gif)
 #### Bubble Sort
