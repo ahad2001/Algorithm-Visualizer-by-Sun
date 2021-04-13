@@ -15,11 +15,11 @@ Algorithm Visualizer is an algorithm visualizing application
 
 ### Starting Page:
 This is the starting page for this application. The user can proceed by pressing Enter.<br/><br/>
-![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/tree/main/AlgoVisualizer-main/DemoResources/StartPage.gif)
+![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/blob/main/AlgoVisualizer-main/DemoResources/StartPage.gif)
 
 ### Menu Page:
 There are 3 different types of algorithms in this application: Searching algorithms, Sorting algorithms and Graph Traversal algorithms. The user can select any one them to proceed.<br/><br/>
-![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/tree/main/Algorithm-Visualizer-by-Sun/DemoResources/MenuPage.png)
+![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/blob/main/Algorithm-Visualizer-by-Sun/DemoResources/MenuPage.png)
 
 ### Sorting Algorithms:
 The application has 5 sorting algorithms. There are options available to change the size of the array, give customized inputs, generate random inputs, change the speed of transition, pause the transition and view their algorithms.
@@ -28,9 +28,9 @@ The application has 5 sorting algorithms. There are options available to change 
 #### Selection Sort
 ![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/blob/main/Algorithm-Visualizer-by-Sun/DemoResources/Selection.gif)
 #### Quick Sort
-![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/tree/main/Algorithm-Visualizer-by-Sun/DemoResources/Quick.gif)
+![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/blob/main/Algorithm-Visualizer-by-Sun/DemoResources/Quick.gif)
 #### Bubble Sort
-![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/tree/main/Algorithm-Visualizer-by-Sun/DemoResources/Bubble.gif)
+![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/blob/main/Algorithm-Visualizer-by-Sun/DemoResources/Bubble.gif)
 #### Merge Sort
 ![Alt text](https://github.com/ahad2001/Algorithm-Visualizer-by-Sun/tree/main/Algorithm-Visualizer-by-Sun/DemoResources/Merge.gif)
 
